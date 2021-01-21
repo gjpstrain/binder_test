@@ -1,1 +1,1 @@
-install.packages(c("tidyverse, "Hmisc", "ggridges"))
+install.packages(c("tidyverse", "Hmisc", "ggridges"))
